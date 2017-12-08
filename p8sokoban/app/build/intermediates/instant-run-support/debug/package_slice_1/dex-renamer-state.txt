@@ -1,0 +1,4 @@
+#Sun Nov 12 10:51:49 CET 2017
+base.0=/home/sb/Bureau/cours_paris_8/os_nomade/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/home/sb/Bureau/cours_paris_8/os_nomade/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

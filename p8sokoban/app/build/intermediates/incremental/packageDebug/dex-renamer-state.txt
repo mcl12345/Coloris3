@@ -1,0 +1,7 @@
+#Sat Nov 11 20:04:21 CET 2017
+base.0=/home/sb/Bureau/cours_paris_8/os_nomade/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b361f68998108220bfd0093f49f688391c8df985
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/sb/Bureau/cours_paris_8/os_nomade/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_04858b3b6fba300fe65dec7c84d417043d7da0a5/classes.dex
+base.1=/home/sb/Bureau/cours_paris_8/os_nomade/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_04858b3b6fba300fe65dec7c84d417043d7da0a5
+file.0=/home/sb/Bureau/cours_paris_8/os_nomade/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b361f68998108220bfd0093f49f688391c8df985/classes.dex

@@ -1,0 +1,10 @@
+rouge_blanc_blanc
+blanc_blanc_blanc
+bleu_blanc_blanc
+jaune_blanc_blanc
+vert_blanc_blanc
+rouge_vert_blanc
+vert_vert_vert
+rouge_rouge_rouge
+bleu_vert_blanc
+bleu_vert_rouge

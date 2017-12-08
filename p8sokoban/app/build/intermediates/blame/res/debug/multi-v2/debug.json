@@ -1,0 +1,80 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "114,55",
+                        "endColumns": "44,58",
+                        "endOffsets": "154,109"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "95,140",
+                        "endColumns": "44,58",
+                        "endOffsets": "135,194"
+                    }
+                },
+                {
+                    "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/values/color.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "114,55",
+                        "endColumns": "44,58",
+                        "endOffsets": "154,109"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,58",
+                        "endOffsets": "95,154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "114,55",
+                        "endColumns": "44,58",
+                        "endOffsets": "154,109"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,58",
+                        "endOffsets": "95,154"
+                    }
+                }
+            ]
+        }
+    ]
+}

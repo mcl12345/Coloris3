@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <Button
+        android:id="@+id/jouer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="40"
+        android:clickable="true"
+        android:text="Jouer" />
+
+    <Button
+        android:id="@+id/best_scores"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="40.05"
+        android:text="Meilleurs scores"
+        android:gravity="center_vertical|center_horizontal" />
+
+    <Button
+        android:id="@+id/button_a_propos"
+        android:layout_width="match_parent"
+        android:layout_height="17dp"
+        android:layout_weight="40"
+        android:clickable="true"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="A propos" />
+
+    <Button
+        android:id="@+id/soundeffect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="40"
+        android:text="activer/desactiver son" />
+
+    <TextView
+        android:id="@+id/son"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="40" />
+
+    <Button
+        android:id="@+id/quitter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="40"
+        android:text="Quitter" />
+
+</LinearLayout>

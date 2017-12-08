@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/raw_data.txt.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/raw/data.txt"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-hdpi/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_mic_on.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/mic_on.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-hdpi/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-hdpi/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_up.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu_vert_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_bleu.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/blanc_blanc_bleu.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/jaune_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-mdpi/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-mdpi/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-mdpi/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_vert.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/blanc_blanc_vert.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/jaune_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-hdpi/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-hdpi/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-hdpi/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/vert_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-mdpi/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_vert_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/blanc_vert_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-mdpi/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-mdpi/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-hdpi/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_vert_verth.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/vert_vert_verth.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-hdpi/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-hdpi/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_right.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_vert_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge_vert_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_left.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/left.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/vert.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/layout_main2.xml.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/layout/main2.xml"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_up.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/bleu.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-hdpi/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_blanc_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge_blanc_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/jaune_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/blanc_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-hdpi/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/jaune.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/blanc_blanc_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_jaune.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/blanc_blanc_jaune.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-hdpi/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-hdpi/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu_vert_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_jaune.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/blanc_blanc_jaune.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-mdpi/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-hdpi/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-mdpi/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-mdpi/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_down.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/vert_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-hdpi/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-mdpi/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-mdpi/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-hdpi/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/rouge_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/layout_end.xml.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/layout/end.xml"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-mdpi/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_win.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/win.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_vert_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge_vert_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_win.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/win.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_vert_bleu.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge_vert_bleu.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/jaune.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/vert.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_rouge_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge_rouge_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/blanc_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/layout_best_scores.xml.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/layout/best_scores.xml"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu_vert_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-hdpi/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-mdpi/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/layout_main2.xml.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/layout/main2.xml"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu_vert_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_blanc_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/vert_blanc_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/raw_comp.mp3.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/raw/comp.mp3"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_mic_off.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/mic_off.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-hdpi/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_down.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/bleu_vert_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_rouge_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge_rouge_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_vert_vert.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/vert_vert_vert.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/vert_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-mdpi/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_right.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-mdpi/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-mdpi/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_vert_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/rouge_vert_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/blanc_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune_blanc_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/jaune_blanc_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_rouge_rougeh.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge_rouge_rougeh.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune_blanc_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/jaune_blanc_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_bleu.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/blanc_blanc_bleu.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-hdpi/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_vert.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/blanc_blanc_vert.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_vert_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge_vert_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_blanc_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/vert_blanc_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/jaune.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu_vert_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/bleu_vert_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_rouge_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/rouge_rouge_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_vert_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge_vert_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-mdpi/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_vert_vert.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/vert_vert_vert.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_mic_on.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/mic_on.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_win.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/win.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_vert_vert.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/vert_vert_vert.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_vert_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge_vert_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/vert_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_up.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_mic_off.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-ldpi/mic_off.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu_vert_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-hdpi/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_left.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/left.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_vert_bleu.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/blanc_vert_bleu.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_vert_bleu.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge_vert_bleu.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-mdpi/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_vert_bleu.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/blanc_vert_bleu.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-hdpi/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/bleu_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_mic_on.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/mic_on.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-ldpi/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_blanc_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu_blanc_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_rougeh.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu_vert_rougeh.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-mdpi/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_right.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/raw_data.txt.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/raw/data.txt"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/blanc_blanc_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_mic_off.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/mic_off.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_01.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/zone_01.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_vert_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge_vert_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-hdpi/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_rougeb.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu_vert_rougeb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/blanc_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-mdpi/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/blanc_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu_vert_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/layout_main2.xml.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/layout/main2.xml"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/vert_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_blanc_vert_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/blanc_vert_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_rougeb.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu_vert_rougeb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/vert.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vide.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/vide.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-mdpi/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable_block.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable/block.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_blanc_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge_blanc_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/raw_data.txt.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/raw/data.txt"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/jaune_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_perso.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-hdpi/perso.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_blanc_blanch.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu_blanc_blanch.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/rouge_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_rouge.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu_vert_rouge.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_jaune_blanc_blanc.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/jaune_blanc_blanc.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_04.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-mdpi/zone_04.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_vert_vert_verth.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/vert_vert_verth.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_02.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-mdpi/zone_02.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_03.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-hdpi/zone_03.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_diamant.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable-mdpi/diamant.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_blanc_blancb.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/bleu_blanc_blancb.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_bleu_vert_rougeh.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/bleu_vert_rougeh.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/p8sokoban/app/build/intermediates/res/merged/debug/drawable_down.png.flat",
+        "source": "/Users/avthanusan/Desktop/p8sokoban/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_rouge_rouge_rougeh.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/rouge_rouge_rougeh.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/avthanusan/Desktop/dossier sans titre 2/p8sokoban/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/avthanusan/Desktop/essai/p8sokoban/app/build/intermediates/res/merged/debug/drawable_left.png.flat",
+        "source": "/Users/avthanusan/Desktop/essai/p8sokoban/app/src/main/res/drawable/left.png"
+    }
+]
