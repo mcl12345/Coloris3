@@ -76,7 +76,16 @@ public class p8_Sokoban extends Activity {
                 if(!isclickedson) etatson.setText("son desactivé");
             }
         });
+        
+        Button button_a_propos = (Button) findViewById(R.id.button_a_propos);
+        button_a_propos.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                // charge le fichier main.xml comme vue de l'activité
+                setContentView(R.layout.a_propos);
 
+            }
+        });
+        
         quit.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
