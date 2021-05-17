@@ -1,1 +1,3 @@
-# Coloris3
+# Android project - Game : Coloris
+
+Coloris3
