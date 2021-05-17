@@ -1,3 +1,3 @@
-# Android project - Game : Coloris
+# Android 7 project - Game : Coloris
 
 Coloris3
